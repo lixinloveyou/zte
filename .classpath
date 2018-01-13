@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/htmllexer.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/htmlparser.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/thumbelina.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-pool2-2.4.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-codec-1.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-codec-1.10-sources.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-codec-1.10-tests.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/commons-codec-1.10-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="C:/software/java/javatext/lxspider jar/jsoup-1.9.1.jar" sourcepath="C:/Users/Lx/.m2/repository/org/jsoup/jsoup/1.9.1/jsoup-1.9.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
